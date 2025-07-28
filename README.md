@@ -23,16 +23,27 @@ The "पर लिखें" part is trimmned from the audio.
 # Cite
 
 @article{MISHRA2024104678,
+
 title = {Generative attention based framework for implicit language change detection},
+
 journal = {Digital Signal Processing},
+
 volume = {154},
+
 pages = {104678},
+
 year = {2024},
+
 issn = {1051-2004},
+
 doi = {https://doi.org/10.1016/j.dsp.2024.104678},
+
 url = {https://www.sciencedirect.com/science/article/pii/S1051200424003038},
+
 author = {Jagabandhu Mishra and S.R. {Mahadeva Prasanna}},
+
 keywords = {Spoken language change detection, Generative adversarial network (GAN), Attention, Speaker change detection},
+
 abstract = {Spoken language change detection (LCD) refers to detecting language switching points in a multilingual speech signal. Most approaches in literature use the explicit framework that requires the modeling of intermediate phonemes and Senones to distinguish language. However, such techniques are limited when used with resource scare/ zero resource languages. Hence as an alternative, this study explores implicit frameworks to perform LCD. The focus of this work is to detect language change when a single speaker is speaking two languages. In this direction, a subjective study is performed to analyze the method humans adapt to discriminate languages. The outcome of the subjective study suggests humans require more neighborhood duration to detect language change. The initial observation suggests, that detecting language change is challenging using the baseline implicit unsupervised distance-based approach. Inspired by human cognition, prior language knowledge is integrated into the computational framework through the Gaussian mixture model and universal background model (GMM-UBM), temporal information via attention, and pattern storage using the Generative adversarial network (GAN) to enhance language discrimination. The experimental results on the Microsoft code-switched (MSCS) dataset show, compared to the unsupervised distance-based approach, the performance of the proposed LCD relatively improved by 19.3%, 47.3%, and 50.7% using the GMM-UBM, attention, and GAN-attention based framework, respectively.}
 }
 
