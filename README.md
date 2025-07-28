@@ -12,4 +12,14 @@ corresponding text is can be found from the sel_sent, however though the sentenc
 Example
  ## mod_sel_V1-annoted. csv
 seq_num	sel_id	sel_seg	sel_sent	sel_st	sel_en	Ch pt	L1	L2
-1	186802_FENm2lcy0NgdYIIB_0087
+1	186802_FENm2lcy0NgdYIIB_0087	FENm2lcy0NgdYIIB	अधिक जानकारी के लिए कृपया हमें contact @spoken hyphen tutorial org पर लिखें	466	472	28849	H	E
+
+
+This means the corresponding speech file can be found in mod_sel_V1/1_186802_FENm2lcy0NgdYIIB_0087.wav, and it change point is at sample index 28849, and before change point language in Hindi (H) and after change point language is English (E), the corresponding text in the trimmed audio is  अधिक जानकारी के लिए कृपया हमें contact @spoken hyphen tutorial org. 
+
+The "पर लिखें" part is trimmned from the audio.
+
+# Cite
+
+
+ 
